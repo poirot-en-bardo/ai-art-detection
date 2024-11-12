@@ -44,8 +44,8 @@ def move_images_with_keywords(source_dir, destination_dir, keywords, image_exten
 
 # Usage
 source_directory = '/home/oem/eliza/DL/project/data/gathered_art'
-destination_directory = '/home/oem/eliza/DL/project/data/Inpainting_Generated_DeepFakeArt'
-search_keywords = ['inpainting.png']
+destination_directory = '/home/oem/eliza/DL/project/data/Style_Transfer_Generated_DeepFakeArt'
+search_keywords = ['style_transfer','generated']
 
 # Run the function
 move_images_with_keywords(source_directory, destination_directory, search_keywords)
