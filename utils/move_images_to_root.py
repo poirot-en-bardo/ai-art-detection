@@ -36,5 +36,5 @@ def move_images_to_root(folder, extensions=(".jpg", ".jpeg", ".png", ".bmp", ".g
 
 # Example Usage:
 # Specify the folder containing subfolders with images
-source_folder = "/home/oem/eliza/DL/project/data/processed/resize_generated"
+source_folder = "/home/oem/eliza/DL/project/data/processed/resizedto25px/resize_generated"
 move_images_to_root(source_folder)
