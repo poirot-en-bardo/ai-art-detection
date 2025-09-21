@@ -40,7 +40,7 @@ This hybrid approach allows both **high accuracy** in classification and **insig
 
 ## 📦 Data
 
-- Authentic artworks sampled from **𝒜𝑟𝑡𝒢𝑟𝑎𝑝ℎ** dataset.  
+- Authentic artworks sampled from **ArtGraph** dataset.  
 - AI-generated artworks sampled from **ArtiFact** and other diffusion/GAN models.  
 - All images standardized to fixed resolution, split 80/10/10 (train/val/test).
 
